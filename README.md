@@ -1,4 +1,4 @@
-hdhhdhdh# some_code
+hhdhdhhdhdhdhhdhdh# some_code
 just a shell script
 checking
 check
